@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "674526248197",
+    "firebase_url": "https://grand-appliance-208410.firebaseio.com",
+    "project_id": "grand-appliance-208410",
+    "storage_bucket": "grand-appliance-208410.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:674526248197:android:764d2cb7da3280eb",
+        "android_client_info": {
+          "package_name": "io.ionic.starter"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "674526248197-o40g2ntl3aj6o7mbvqh8otqsfm0ro4k9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD9y7-bH50STqhelxoO_3-10S0tNBO8j9o"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "674526248197-o40g2ntl3aj6o7mbvqh8otqsfm0ro4k9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
